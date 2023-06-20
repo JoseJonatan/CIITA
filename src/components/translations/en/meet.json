@@ -1,0 +1,41 @@
+{
+    "meet": {
+        "title": "About Us",
+        "mission": "Mission",
+        "textm" : "The mission of the Innovation and Integration Center of Advanced Technology of the National Polytechnic Institute (CIITA-IPN), is to carry out applied research and integration of new technologies with innovation , to provide solutions to the needs raised by the productive, social and governmental sectors of the state of Chihuahua and promoting the development of high-tech talent . To achieve this, it draws on the structure of the researchers offered by the National Polytechnic Institute through its networks and research centers, emphasizing responsibility, ethics, tolerance and social commitment.",
+        "vision": "Vision",
+        "textv" : "To be the leading center in applied research and high-level technological development, committed to society, exemplified by high-quality standards by experts grouped in the various areas of competence and promoting the development of cutting-edge talent that will contribute to regional development.",
+        "objectives": "General Objectives",
+        "texto": "Establish a regional innovation ecosystem that integrates government, academia and industry (companies and associations), entrepreneurs (students, researchers, professionals and industrialists) who seek to transform ideas into products with value. Promote the development of talent and the training of high-level human resources, in order to address the problems, needs or opportunities of the state. Strengthen the scientific and technological infrastructure of the region, articulating and integrating R & D & i, efforts , to encourage the growth of productive sectors based on the development, commercialization and promotion of their competitive advantages.",
+        "textob": "Promote the development of talent and the training of high-level human resources, in order to address the problems, needs or opportunities of the state.",
+        "textobj": "Strengthen the scientific and technological infrastructure of the region, articulating and integrating I + D + i efforts, to encourage the growth of productive sectors based on the development, marketing and promotion of their competitive advantages."
+    },
+
+    "team": {
+        "title": "Our Team",
+        "titlea": "Director's Office",
+        "titleb": "Coordination of Applied Research",
+        "titlec": "Coordination of Innovation",
+        "titled": "Administration" ,
+        "mail": "Mail"
+    },
+
+    "job": {
+        "lydia": "Director",
+        "vidal": "Business Relationships",
+        "earl": "Operational Technical Assistance",
+        "jose": "IT Support",
+        "carlos": "Coordinator",
+        "kevin": "Electronics",
+        "jesus": "Advanced Computing",
+        "claudia": "Advanced Manufacturing",
+        "isra": "Materials Analysis",
+        "german": "Coordinator",
+        "leslie": "Project Administration",
+        "arturo": "Software Development",
+        "martha": "Educational Services",
+        "adri": "Coordinator",
+        "cin": "Human Resources and Financial Resources",
+        "nancy": "General Services and Material Resources"
+    }
+}

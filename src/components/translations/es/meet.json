@@ -1,0 +1,41 @@
+{
+    "meet": {
+        "title": "Conócenos",
+        "mission": "Misión",
+        "textm" : "La misión del Centro de Innovación e Integración de Tecnología Avanzada del Instituto Politécnico Nacional (CIITA-IPN), es realizar investigación aplicada e integración de nuevas tecnologías con innovación, para dar solución a las necesidades planteadas por los sectores productivo, social y gubernamental del estado de Chihuahua y promoviendo el desarrollo del talento de alto nivel tecnológico. Para lograrlo, se nutre de la estructura de investigadores que ofrece el Instituto Politécnico Nacional a través de sus redes y centros de investigación enfatizando la responsabilidad, la ética, la tolerancia y el compromiso social.",
+        "vision": "Visión",
+        "textv" : "Ser el centro líder en investigación aplicada y desarrollo tecnológico de alto nivel, comprometido con la sociedad, ejemplificado por altos estándares de calidad por los expertos agrupados en las diversas áreas de competencia y el impulso al desarrollo de talento de vanguardia que contribuirán al desarrollo regional.",
+        "objectives": "Objetivos Generales",
+        "texto": "Establecer un ecosistema de innovación regional que integre a Gobierno, Academia e industria (empresas y asociaciones), emprendedores (estudiantes, investigadores, profesionistas e industriales) que buscan transformar ideas en productos con valor.",
+        "textob": "Impulsar el desarrollo de talento y la formación de recursos humanos de alto nivel, a fin de atender los problemas, necesidades u oportunidades del estado.",
+        "textobj": "Fortalecer la infraestructura científica y tecnológica de la región, articulando e integrando esfuerzos de I+D+i, para incentivar el crecimiento de los sectores productivos con base en el desarrollo, comercialización y promoción de sus ventajas competitivas."
+    },
+
+    "team": {
+        "title": "Equipo de Trabajo",
+        "titlea": "Administración",
+        "titleb": "Coordinación de Investigación Aplicada",
+        "titlec": "Coordinación de Innovación",
+        "titled": "Subdirección Administrativa" ,
+        "mail": "Correo"
+    },
+
+    "job": {
+        "lydia": "Directora",
+        "vidal": "Jefe de la Unidad de Vinculación",
+        "earl": "Coordinador de Enlace y Gestión Técnica",
+        "jose": "Jefe de la Unidad de Soporte Informático",
+        "carlos": "Coordinador de Investigación Aplicada",
+        "kevin": "Jefe del Departamento de Electrónica",
+        "jesus": "Jefe del Departamento de Cómputo Avanzado",
+        "claudia": "Jefa del Departamento de Manufactura Avanzada",
+        "isra": "Jefe de Departamento de Análisis de Materiales",
+        "german": "Coordinador de Innovación",
+        "leslie": "Jefa del Departamento de Administración de Proyectos",
+        "arturo": "Jefe del Departamento de Desarrollo de Software",
+        "martha": "Jefa de Departamento de Servicios Educativos",
+        "adri": "Subdirectora Administrativa",
+        "cin": "Jefa del Departamento de Capital Humano y Recursos Financieros",
+        "nancy": "Jefa del Departamento de Recursos Materiales y Servicios Generales"
+    }
+}

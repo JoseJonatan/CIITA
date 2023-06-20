@@ -1,0 +1,31 @@
+{
+    "regional": {
+        "title": "Regional Development",
+        "subtitle": "Regional Benefits and Impact"
+    },
+    "model": {
+        "title": "Institutional Model for Regional Development",
+        "text": "This is an institutional strategy that is focused on providing technical support to the productive sector. The main objective is to identify the high impact of innovations in market products to improve regional and national developments. "
+    },
+    "days" : {
+        "title": "Investment Required",
+        "subtitle": "14 hours distributed in 4 days of executive meetings",
+        "contact": "Day 0 – First Approach",
+        "map": "Day 1 – Empathy Map",
+        "design": "Day 2 – Design Thinking",
+        "result": "Day 3 – Presentation of Results",
+        "text": "Meeting with the CEO or General Manager and Managers are scheduled in each of the production stages every day."
+    },
+    "block": {
+        "market": "Market Positioning",
+        "textm": "Opportunities are detected to improve or develop new products and services.",
+        "process": "Process Improvement",
+        "textp": "The best practices in the processes are identified.",
+        "resources": "Resource Optimization",
+        "textr": "Strategic information to support decision-making in the field of innovation and disruptive development.",
+        "utility": "Increase in Profits",
+        "textu": "Opportunities to generate added value for the customer are identified to create new marketing options.",
+        "tech": "Technological Ally",
+        "textt": "Have a technological partner for the transfer of knowledge and technology"
+    }
+}

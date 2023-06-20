@@ -1,0 +1,33 @@
+{
+    "banner": {
+        "tittle": "Misión Virtual",
+        "tittle2": "de Negocios",
+        "subtittle": "Región global",
+        "subtittle2":"de Chihuahua"
+    },
+
+    "numbers":{
+        "empresas": "Empresas",
+        "empleados": "Empleados",
+        "sectores": "Sectores"
+    },
+
+    "objetives":{
+        "generalTittle":"Objetivo General",
+        "generalText": "Atraer, generar y detonar oportunidades de negocio a partir de las fortalezas de las PyMES industriales de Chihuahua y Ciudad Juárez en colaboración con la infraestructura proveída por el Centro de Innovación e Integración de Tecnologías Avanzadas CIITA-Chihuahua.",
+        "specificTittle": "Objetivos Específicos",
+        "specific1": "Mostrar las potencialidades regionales que emergen de la combinación de las capacidades estratégicas de las pymes localizadas en ambas ciudades.",
+        "specific2": "Avanzar en el enlazamiento de cadenas, horizontales y verticales, de valor que agreguen atractivo económico a la región.",
+        "specific3": "Explorar las posibilidades de aprovechamiento de la infraestructura disponible para competir eficientemente en las cadenas globales."
+    },
+
+    "sirgic":{
+        "tittle": "Empresas en sinergia con el CIITA",
+        "text": "La importancia de estas colaboraciones para generar sinergia y conformar un espacio común donde se pueden compartir retos, buenas prácticas y casos de éxito entre las empresas asociadas, para el desarrollo de la industria local a través de su participación en las cadenas globales de valor."
+    },
+
+    "nextMission":{
+        "tittle": "Próxima misión de negocios",
+        "text": "17 de Junio de 2021, 16:00 hrs"
+    }
+}

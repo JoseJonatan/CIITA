@@ -1,0 +1,30 @@
+{
+    "tale": {
+        "title": "Talent Development",
+        "text": "Talent is the trigger for regional development that transits manufacturing to mindufacture. CIITA'S offerings lie in regional industrial and SME's demand."
+    },
+    "training": {
+        "title": "Human Development",
+        "text": "Following the high academic standards of the National Polytechnic Institute (IPN), our objective is to provide training in high specialty areas for the manufacturing sector.",
+        "key": "Key course areas:",
+        "lista": "Automotive",
+        "listb": "Aeronautics",
+        "listc": "Medical devices",
+        "listd": "Electronics",
+        "liste": "Logistics",
+        "btn": "learn more"
+    },
+    "human": {
+        "title": "Human Resources",
+        "text": "It is not possible to talk about a single, succesful and strategic training model aplicable for all companies. It is necessary to develop a specific model for each company to satisfy their needs",
+        "lista": "Training improves production and raises quality standards."
+    },
+    "strategic": {
+        "title": "Strategic Development",
+        "text": "We evaluate the specific human and technical resources for the selection off the proper strategic alternative of each project.",
+        "fact": "CIITA's strategic planning considers three key factors:",
+        "lista": "Scenario generation",
+        "listb": "Strategic alternatives",
+        "listc": "Internal audit of resources"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "proy": {
+        "title": "Proyectos Vinculados"
+    },
+    "colab": {
+        "title": "Convenios de Colaboración",
+        "text": "El CIITA Unidad Juárez Chihuahua pone al servicio de la región las capacidades del instituto en de contribuir en la solución de problemas y fortalecer la productividad, competitividad e innovación de la iniciativa privada y de las dependencias de gobierno en una relación mutuamente enriquecedora."
+    },
+    "link" : {
+        "title": "Los Proyectos Vinculados comprenden:",
+        "advisory": "Asesoría especializada.",
+        "innovation": "Innovación y desarrollo.",
+        "training": "Capacitación y actualización de recursos humanos."
+    },
+    "block": {
+        "title": "Elaboración de la propuesta Técnico-Económica",
+        "text": "Se elabora una propuesta técnico-económica basada en los requerimientos del cliente, para generar un anexo técnico del convenio, integrado por:",
+        "lista": "Definición y análisis del requerimiento.",
+        "listb": "Especificación de solución.",
+        "listc": "Establecimiento de entregables.",
+        "listd": "Calendario de ejecución.",
+        "liste": "Propuesta económica."
+    }
+}

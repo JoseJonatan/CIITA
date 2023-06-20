@@ -1,0 +1,55 @@
+ 
+ @import "react-alice-carousel/lib/alice-carousel.css";
+ @import "~react-image-gallery/styles/css/image-gallery.css";
+
+button{
+	background-color: #6A2847;
+}
+
+body{
+	background-color: white;
+   }
+
+   /* -------------------------------- */
+
+   .slidera {
+	   width: 100%;
+	   margin: auto;
+	   overflow: hidden;
+   }
+   
+   .slidera ul {
+	   display: flex;
+	   padding: 0;
+	   width: 500%;
+	   
+	   animation: cambioa 20s infinite alternate linear;
+   }
+   
+   .slidera li {
+	   width: 100%;
+	   list-style: none;
+   }
+   
+   .slidera img {
+	   width: 100%;
+   }
+   
+   @keyframes cambioa {
+	   0% {margin-left: 0;}
+	   20% {margin-left: 0;}
+	   
+	   21% {margin-left: -100%;}
+	   40% {margin-left: -100%;}
+	   
+	   41% {margin-left: -200%;}
+	   60% {margin-left: -200%;}
+   
+	   61% {margin-left: -300%;}
+	   80% {margin-left: -300%;}
+	   
+	   81% {margin-left: -400%;}
+	   100% {margin-left: -400%;}
+	   
+   }
+   

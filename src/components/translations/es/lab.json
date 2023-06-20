@@ -1,0 +1,46 @@
+{
+    "labor": {
+        "title": "Laboratorios",
+        "subtitle": "Próximamente"
+    },
+    "artificial":{
+        "name": "Laboratorio de Inteligencia Artificial",
+        "text": "Las herramientas de software y hardware que más se utilizan en el ámbito profesional en inteligencía artificial.",
+        "content": "El Laboratorio de Inteligencia Artificial ( Integración i4.0) del CIITA (Centro de Innovación e Integración de Tecnologías Avanzadas) en Cd Juárez, tiene como objetivo asistir al sector industrial, gubernamental y académico en el aprendizaje del complejo campo del la inteligencia artificial."
+    },
+    "comp":{
+        "name": "Laboratorio de Cómputo Avanzado",
+        "text": "Computadoras con un alto nivel de prestaciones para desarrollar computación web, sistemas móviles, basados en open source o con licencia.",
+        "content": "El Laboratorio de Cómputo Avanzado del CIITA (Centro de Innovación e Integración de Tecnologías Avanzadas) en Cd Juárez, ofrece servicios de cómputo avanzado un entorno propicio para las clases de laboratorio, capacitación y proyectos de programación avanzada."
+    },
+    "machine":{
+        "name": "Laboratorio de Maquinados Avanzados",
+        "text": "Innovación en la fabricación con precisión de soluciones rentables para cumplir con especificaciones de alta calidad.",
+        "content": "Tiene como objetivo principal el fortalecimiento de la pequeña y mediana industria con la implementación y ejecución de capacitación altamente especializada para el área de moldes y troqueles; además, de proveer servicios de manufactura avanzada y proponer proyectos que impulsen el desarrollo e innovación tecnológica. Ofrece servicios de mecanizado de alta precisión para tareas que requieren componentes complejos y difíciles de mecanizar."
+    },
+    "aditiva":{
+        "name": "Laboratorio de Manufactura Aditiva",
+        "text": "Conocida como impresión 3D, le ofrecemos al sector industrial y de servicios una opción de producción flexible, rápida y eficiente.",
+        "content": "La manufactura aditiva, ampliamente conocida como impresión 3D, está transformando la forma en que los productos son diseñados, producidos y mantenidos. Es una evolución de la fabricación industrial. La manufactura aditiva le da la libertad de crear formas que habrían sido imposibles utilizando métodos de fabricación convencionales, permite la producción bajo demanda sin herramientas o equipos dedicados, optimiza el proceso de producción, instalación y configuración, desbloquea herramientas de diseño digital y ofrece un rendimiento innovador y una flexibilidad sin igual en la industria."
+    },
+    "analisis":{
+        "name": "Laboratorio de Análisis Materiales",
+        "text": "Las técnicas analíticas y el equipamiento del laboratorio de análisis de materiales nos permiten evaluar las propiedades del material.",
+        "content": "El laboratorio de análisis de materiales de CIITA respalda la innovación en industrias como la ingeniería y la fabricación en análisis y pruebas de materiales y abarca una amplia gama de sectores industriales, que incluyen automotriz, polímeros y plásticos, empaques, adhesivos, materiales de construcción y electrónica. Nuestros servicios de análisis de materiales pueden garantizar la calidad de sus materiales, resolver problemas de rendimiento, respaldar el desarrollo de productos e investigar problemas de fallas al proporcionar la información necesaria para comprender la composición, estructura, propiedades químicas, mecánicas o físicas de su material. Las técnicas de análisis de materiales incluyen análisis SEM (microscopía electrónica de barrido), termogravimétrico, mecánico dinámico, calorimetría de barrido diferencial y análisis de espectometría Raman."
+    },
+    "proto":{
+        "name": "Laboratorio de Prototipos Electrónicos",
+        "text": "Labotatorio a escala que ofrece servicios de fabricación de prototipos electrónicos y electrónica de grado industrial.",
+        "content": "El Laboratorio de Prototipos Electrónicos del CIITA (Centro de Innovación e Integración de Tecnologías Avanzadas) en Cd Juárez es un taller a pequeña escala que ofrece servicios de fabricación de prototipos electrónicos. Se compone de herramientas estándar de fabricación y electrónica de grado industrial. En electrónica, la creación de prototipos significa construir un circuito real con un diseño teórico. Es una representación funcional utilizada para evaluar y detectar fallas o problemas durante el desarrollo del concepto de un producto o antes de lanzarse a producción."
+    },
+    "emc":{
+        "name": "Laboratorio de Pruebas EMC",
+        "text": "Ofrece desarrollo de pruebas electromagnéticas, para dar soporte al sector industrial desde su diseño hasta el producto final.",
+        "content": "La compatibilidad electromagnética, también conocida como EMC, es la interacción de los equipos eléctricos y electrónicos con su entorno electromagnético y con otros equipos. Las pruebas de compatibilidad electromagnética analizan la capacidad de los dispositivos electrónicos para funcionar según lo previsto cuando se encuentran cerca de otros dispositivos electrónicos o en presencia de perturbaciones electromagnéticas que interfieren con su operación prevista."
+    },
+    "metro":{
+        "name": "Laboratorio de Metrología",
+        "text": "La fabricación con precisión proporciona soluciones rentables para cumplir con estandares de alta precisión.",
+        "content": "El Laboratorio de Metrología del CIITA (Centro de Innovación e Integración de Tecnologías Avanzadas) en Cd Juárez, ofrece servicios de precisión, repetibilidad y confiabilidad constantes en la ejecución de las tareas de medición. Nuestro enfoque se adapta a las necesidades de cada cliente desde el desarrollo del concepto de diseño hasta su producción en masa."
+    }
+}

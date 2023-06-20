@@ -1,0 +1,16 @@
+
+.lab{
+    min-height: 400px ;
+}
+ 
+@media (max-width: 1124px){
+    .meet{
+        min-height: 250px;
+    }
+}
+@media (max-width: 601px){
+    .meet{
+        min-height: 0px;
+    }
+}
+

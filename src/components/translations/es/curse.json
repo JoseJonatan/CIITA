@@ -1,0 +1,100 @@
+{
+    "train": {
+        "title": "Capacitación Estratégica",
+        "text": "Los programas de capacitación corporativa imparten el conocimiento y las habilidades que los equipos necesitan para mantenerse al día con la velocidad a la que cambian las industrias. A medida que las nuevas tecnologías cambien las formas de trabajo establecidas, las organizaciones solo prosperarán si capacitan a los empleados para abordar esta interrupción a través del pensamiento innovador."
+    },
+    "ti": {
+        "title": "Informática y programación",
+        "text": "Da pasos firmes en el mundo de la programación aprendiendo sus estructuras fundamentales y la lógica funcional detrás de cada línea de código.",
+        "cad": "Autodesk AutoCAD",
+        "excela": "Microsoft Excel Básico",
+        "excelb": "Microsoft Excel Intermedio",
+        "excelc": "Microsoft Excel Avanzado",
+        "moodlea": "Moodle Básico",
+        "moodleb": "Introducción a la Plataforma MOODLE para Profesores-Asesores",
+        "moodlec": "Moodle Intermedio",
+        "security": "Seguridad Informática Básica",
+        "securityb": "Seguridad Informática 4.0",
+        "arduino": "Arduino",
+        "Crime": "Prevención de Delitos Informáticos",
+        "Pythona": "Python Básico",
+        "Pythonb": "Python Intermedio",
+        "Pythonc": "Python Avanzado",
+        "Javaa": "Java Básico",
+        "Javab": "Java Intermedio",
+        "Javac": "Java Avanzado",
+        "social": "Redes Sociales para Negocios",
+        "big": "Big Data: Principios y Aplicaciones del Análisis de Datos Masivos",
+        "apps": "APPS para una Presentación de Impacto",
+        "phone": "Uso Inteligente del Teléfono Móvil",
+        "nav": "Navegación y Evaluación de Actividades",
+        "viewa": "Labview Básico",
+        "viewb": "Labview Intermedio"
+    },
+    "finance": {
+        "title": "Finanzas y Administración",
+        "text": "La administración financiera consiste en planear, controlar y ejercer adecuadamente las partidas económicas que son necesarias en todas las funciones y operaciones que realizan las empresas e instituciones, con la finalidad de mantener resultados económicos favorables, lo que resulta difícil de conseguir cuando no existe personal capacitado en el tema.",
+        "finan": "Finanzas para no Financieros",
+        "dire": "Desarrollo de habilidades directivas",
+        "conta": "Contabilidad para no Contadores",
+        "leadership": "Dirección y Liderazgo Empresarial",
+        "orga": "Desarrollo Organizacional",
+        "proy": "Administración de Proyectos"
+    },
+    "soft": {
+        "title": "Soft Skills",
+        "text": "Los profesionales de hoy, técnicamente cualificados, se enfrentan al desafío de estar preparados para afrontar entornos de trabajo que cambian continuamente. La aparición continua de nuevas líneas de desarrollo profesional, las profesiones emergentes y la gran velocidad a la que se mueven los mercados con motivo de la globalización y la diversidad laboral, han desencadenado que las empresas demanden características o habilidades en los profesionales cada vez más esenciales.",
+        "stres": "Inteligencia Emocional y Técnicas de Manejo de Estrés",
+        "culture": "Cultura Organizacional",
+        "motiv": "Motivación Laboral",
+        "change": "Adaptación al Cambio",
+        "crisis": "Manejo de Crisis",
+        "bussines": "Negociaciones en un Ambiente Multicultural para Ejecutivos",
+        "team": "Trabajo en Equipo" 
+    },
+    "process": {
+        "title": "Manufactura y Procesos",
+        "text": "Desarrollar los conocimientos necesarios en el participante, para describir los fundamentos teóricos a llevar a cabo en los procesos de manufactura.",
+        "msa": "Análisis del sistema de medición MSA",
+        "pcp": "Control Plan PCP",
+        "geo": "Dimensiones y Tolerancias Geométricas",
+        "quality": "Herramientas de Calidad y Mejora",
+        "apqp": "Herramientas de Core Tools APQP",
+        "process": "Ingeniería de Procesos",
+        "manu": "Manufactura Esbelta",
+        "metro": "Metrología y Dibujo Técnico",
+        "amef": "Análisis del Modo y Efecto de la Falla AMEF",
+        "ppap": "Herramientas de Core Tools PPAP",
+        "vsm": "Mapeo de la Cadena de Valor VSM",
+        "plan": "Planeación Estratégica",
+        "admin": "Administración y Control de Inventarios"
+    },
+    "inscription": {
+        "title": "Proceso de Inscripción",
+        "subtitle": "Información que debe considerar para su inscripción",
+        "texta": "Para obtener un pre-registro al curso de su interés tendrá que hacerlo por correo electrónico o presencial en nuestras   instalaciones, con al menos dos semanas previo a la fecha establecida de inicio, a fin de indicarle el proceso de inscripción con las fechas y los horarios del proceso hasta concluir su trámite.",
+        "textb": "Los pagos de inscripción son por cantidades exactas, no se aceptarán parcialidades, es decir no debe presentar dos comprobantes de pago con fechas diferentes.",
+        "textc": "No se aceptan cheques ni pagos en efectivo.",
+        "textd": "Los egresados politécnicos pagarán el precio 'comunidad', siendo obligatorio presentar su credencial de EGRESADO (en original y copia), expedida por la DESS - Dirección de Egresado y Servicio Social. Consultar el trámite en la página www.egresados.ipn.mx.",
+        "texte": "Los alumnos IPN podrán aplicar el descuento de 'comunidad', presentando su credencial de alumno vigente y con resello.",
+        "textf": "Es importante que una vez que realice el pago deberá acudir a las instalaciones del CIITA, y avisar al personal del 'Departamento de Servicios Educativos'. Para dar continuidad con el trámite de Inscripción.",
+        "textg": "Los cursos están sujetos a un cupo limitado. El CIITA se reserva el derecho de reprogramar aquellos servicios que no reúnan el cupo mínimo necesario.",
+        "texth": "La facturación se hará en el momento del pago de inscripción presentando el original en la ventanilla de caja de lunes a viernes en el horario establecido.",
+        "texti": "Es importante que presente su recibo de inscripción y una identificación vigente para permitirle el acceso vehicular y peatonal a las instalaciones de este Centro."
+    },
+    "notes": {
+        "title": "Notas Importantes",
+        "texta": "Debido a las políticas de acceso de seguridad a nuestras instalaciones, es importante que presente una copia de su recibo de pago vigente.",
+        "textb": "El horario para atenderle es de lunes a viernes en un horario de 8:30 a 16:00 horas.",
+        "textc": "Todos los cursos están sujetos a un cupo limitado. Por lo que este departamento se reserva el derecho de cancelar un curso considerando la demanda de los usuarios con un día de anticipación.",
+        "textd": "El interesado deberá respetar las fechas del pago de su inscripción y el procedimiento indicado por correo electrónico.",
+        "texte": "No se harán devoluciones si el curso ya inicio. Cualquier solicitud de devolución se deberá de realizar dentro del mismo mes en que se haya efectuado el pago de inscripción del curso.",
+        "textf": "No se reciben pagos en nuestras instalaciones.",
+        "textg": "No se reservan los lugares por teléfono, es importante concluir el trámite de inscripción.",
+        "texth": "En caso de no poder asistir a realizar su trámite de inscripción, podrá realizarlo a través de una persona de su confianza.s"
+    },
+    "const": {
+        "title": "Constancias",
+        "texta": "Para ser acreedor a su constancia del curso deberá cumplir con el 80% de asistencia y calificación mínima de 8.00. La constancia se entrega el ultimo día de asistencia al curso."
+    }
+}

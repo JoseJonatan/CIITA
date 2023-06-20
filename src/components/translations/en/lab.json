@@ -1,0 +1,46 @@
+{
+    "labor": {
+        "title": "Laboratories",
+        "subtitle": "Coming soon"
+    },
+    "artificial":{
+        "name": "Artificial Intelligence Laboratory",
+        "text": "The software and hardware tools that are most used in the professional field in artificial intelligence.",
+        "content": "The Artificial Intelligence Laboratory (Integration i4.0) of CIITA (Center for Innovation and Integration of Advanced Technologies) in Cd Juárez, aims to assist the industrial, government and academic sectors in learning the complex field of artificial intelligence."
+    },
+    "comp":{
+        "name": "Advanced Computing Laboratory",
+        "text": "Computers with a high level of features to develop web computing, mobile systems, based on open source or licensed software.",
+        "content": "The Advanced Computing Laboratory of CIITA (Center for Innovation and Integration of Advanced Technologies) in Cd Juárez, offers advanced computing services an environment conducive to laboratory classes, training and advanced programming projects."
+    },
+    "machine":{
+        "name": "Advanced Machining Laboratory",
+        "text": "Innovation in precision manufacturing and cost-effective solutions to meet high-quality specifications.",
+        "content": "Its main objective is the strengthening of the small and medium industry with the implementation and execution of highly specialized training for the area of ​​molds and dies; in addition, to provide advanced manufacturing services and propose projects that promote technological development and innovation. It offers high precision machining services for tasks that require complex and difficult-to-machine components."
+    },
+    "aditiva":{
+        "name": "Additive Manufacturing Laboratory",
+        "text": "Known as 3D printing, offering the industrial and service sector a flexible, fast and efficient production option.",
+        "content": "CIITA’s Materials Analysis laboratory support innovation in industries such as engineering and manufacturing in materials analysis and testing and spans a wide range of industry sectors, including automotive, polymers and plastics, packaging, adhesives, building materials and electronics. Our materials analysis services can ensure the quality of your materials, solve performance issues, support product development and investigate failure issues by providing the information need it to understand your material’s composition, structure, chemical, mechanical or physical properties.Materials analysis techniques include SEM (Scanning Electron Microscopy) analysis, thermogravimetric, Dynamic Mechanical, Differential Scanning calorimetry and Raman spectometry analysis."
+    },
+    "analisis":{ 
+        "name": "Materials Analysis Laboratory",
+        "text": "Analytical techniques and proper equipment for material analysis allows the evaluation of diverse elements.",
+        "content": "CIITA’s Materials Analysis laboratory support innovation in industries such as engineering and manufacturing in materials analysis and testing and spans a wide range of industry sectors, including automotive, polymers and plastics, packaging, adhesives, building materials and electronics. Our materials analysis services can ensure the quality of your materials, solve performance issues, support product development and investigate failure issues by providing the information need it to understand your material’s composition, structure, chemical, mechanical or physical properties. Materials analysis techniques include SEM (Scanning Electron Microscopy) analysis, thermogravimetric, Dynamic Mechanical, Differential Scanning calorimetry and Raman spectometry analysis."
+    },
+    "proto":{
+        "name": "Electronic Prototype Laboratory",
+        "text": "Laboratory offering industrial grade electronics and electronic prototyping services.        ",
+        "content": "CIITA's Electronic Prototype Laboratory (Center for Innovation and Integration of Advanced Technologies) in Cd Juárez is a small-scale workshop that offers electronic prototype manufacturing services. It consists of standard manufacturing tools and industrial grade electronics. In electronics, prototyping means building a real circuit with a theoretical design. It is a functional representation used to evaluate and detect failures or problems during the development of the concept of a product or before going into production."
+    },
+    "emc":{
+        "name": "EMC Testing Laboratory",
+        "text": "Offers the development of electromagnetic tests to support the industrial sector in its design to final product.",
+        "content": "Electromagnetic compatibility, also known as EMC, is the interaction of electrical and electronic equipment with its electromagnetic environment and with other equipment. Electromagnetic compatibility tests look at the ability of electronic devices to function as intended when they are near other electronic devices or in the presence of electromagnetic disturbances that interfere with their intended operation."
+    },
+    "metro":{
+        "name": "Metrology Laboratory",
+        "text": "Precision manufacturing provides cost-effective solutions to meet high precision standards.",
+        "content": "Metrology Laboratory of CIITA (Center for Innovation and Integration of Advanced Technologies) in Ciudad Juárez, offers services of precision, repeatability and constant reliability in the execution of measurement tasks. Our approach is tailored to the needs of each client from design concept development to mass production."
+    }
+}

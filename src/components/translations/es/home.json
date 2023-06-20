@@ -1,0 +1,91 @@
+{
+    "banner": {
+        "title": "Centro de Innovación e Integración de Tecnologías Avanzadas",
+        "subtitle": "CIITA - Innovación y Desarrollo para tu Empresa"
+    },
+
+    "bannerMision": {
+        "title": "Misión Virtual de Negocios",
+        "subtitle": "Chihuahua Región Global"
+    },
+
+    "carousel": {
+        "title": "Innovación y Desarrollo para tu Empresa",
+        "subtitle": "Soluciones integrales de vanguardia en proyectos tecnológicos para los sectores productivos y de servicios de Chihuahua."
+    },
+
+    "btn": {
+        "name": "Conocer más",
+        "learn": "Aprende más",
+        "get": "Comprar"
+    },
+
+    "bannercom": {
+        "title": "Circulares y comunicados oficiales",
+        "boxtitle": "Capacítate",
+        "paragraph": "Siguiendo las normas de calidad académica del IPN, tenemos como uno de nuestros objetivos formar especialistas de calidad en los mercados empresariales de Chihuahua y México capacitados en un alto grado de innovación.",
+        "text": "Cursos clave para los sectores:",
+        "texta": "Automotriz - Aeronáutica",
+        "textb": "Dispositivos Médicos",
+        "textc": "Electrónica - Logística"
+    },
+
+    "sianiHome":{
+        "tittle1":"¿Qué es SIANI?",
+        "text1":"El Sistema Integral para la Atención a Necesidades con la Industria (SIANI) es un desarrollo de software 100% institucional, basado en arquitectura web. Este sistema permitirá identificar de forma rápida las necesidades de la industria en la región. Brindando la confianza a los clientes que su información se encuentra alojada de forma segura y confidencial.",
+        "tittle2":"Comunicación con tecnólogos donde quiera que te encuentres",
+        "text2":"Conecta con especialistas del equipo CIITA, llena una breve encuesta y nosotros analizaremos cada caso de manera personalizada para ofrecerte soluciones tecnológicas que incrementen el valor de tu empresa."
+    },
+    
+    "umaHome":{
+        "tittle":"Unidad Móvil de Aprendizaje",
+        "uma":"UMA",
+        "text1":"El proyecto Unidades Móviles de Aprendizaje (UMA) es un modelo de atención educativa que mediante programas estructurados en cápsulas o cursos cortos diseñados para la modalidad no escolarizada e instalados en computadoras dentro de pequeños camiones.",
+        "button":"Conocer más",
+        "text2":"Permiten el acceso a contenidos informativos que son útiles para mejorar diversos aspectos en la vida de los ciudadanos, y además facilita el acercamiento a las Tecnologías de la Información y la Comunicación (TICs)."
+    },
+
+    "services":{
+        "tittle0":"Servicios",
+        "tittle1":"Propuestas Técnicas",
+        "text1":"Propuestas técnicas que describen soluciones planteadas a necesidades o requerimientos de la industria, bajo una metodología de desarrollo de proyectos integrales y de vanguardia tecnológica.",
+        "tittle2":"Desarrollo de Tecnología",
+        "text2":"El CIITA realiza actividades de desarrollo tecnológico y proyectos de innovación, así como la transferencia de tecnología entre el IPN y el entorno productivo.",
+        "tittle3":"Próxima Misión Virtual de Negocios",
+        "text3":"El objetivo es atraer, generar y detonar oportunidades de negocio a partir de las fortalezas de las PYMES industriales de Chihuahua y Ciudad Juárez.",
+        "tittle4":"Webinars",
+        "text4":"Especialistas en diferentes áreas del conocimiento nacionales e internacionales aliados del CIITA, presentan temáticas actuales y de interés para la industria e instituciones educativas de la región y del país.",
+        "tittle5":"Alianzas Estratégicas",
+        "text5":"Somos una instancia estratégica del IPN que funciona como enlace para acercar sus capacidades al sector productivo, de bienes, servicios, instituciones y gobierno para el fomento de la innovación y desarrollo tecnológico.",
+        "tittle6":"Pruebas de Laboratorio",
+        "text6":"Contamos con la capacidad para realizar 148 diferentes pruebas de laboratorio para la industria, a través de la red de laboratorios certificados del Instituto Politécnico Nacional."
+    },
+
+
+    "contact": {
+        "title": "Medios de contacto",
+
+        "boxtitle": "Email CIITA Unidad Ciudad Juárez",
+        "text": "Si deseas mayor información o una experiencia personalizada sobre nuestros servicios tecnológicos, déjanos tus comentarios o envianos un correo a:",
+        "dirtitle": "Direcciones",
+        "dirone": "Av. Vicente Guerrero #8840, Col. Las Quintas, Ciudad Juárez Chihuahua.",
+        "dirtwo": "Av. Instituto Politécnico Nacional #2714, Col. Quintas del Sol, Chihuahua, Chihuahua.",
+
+        "titlemap": "Ubicación en Ciudad Juárez",
+        "titlemaptwo": "Ubicación en Chihuahua"
+    },
+
+    "form": {
+        "name": "Nombre",
+        "subject": "Asunto",
+        "email": "E-mail",
+        "content": "Mensaje",
+        "btn": "Enviar"
+    },
+
+    "social": {
+        "title": "Redes Sociales",
+        "text": "Sigue nuestras redes sociales para noticias relevantes de tecnología y actividades especiales"
+    }
+    
+}

@@ -1,0 +1,91 @@
+{
+    "banner": {
+        "title": "Innovation and Integration Center of Advanced Technologies",
+        "subtitle": "CIITA - Innovation and Development"
+    },
+
+    "bannerMision": {
+        "title": "Virtual Business Mission",
+        "subtitle": "Chihuahua Global Region"
+    },
+
+    "carousel": {
+        "title": "Innovation and Development for your Company",
+        "subtitle": "Comprehensive cutting-edge solutions in technological projects for the private, public and social sector of Chihuahua."
+    },
+
+    "btn": {
+        "name": "read more",
+        "learn": "Learn more",
+        "get": "get it"
+    },
+
+    "bannercom": {
+        "title": "Events, Offerings and Communication",
+        "boxtitle": "Human Development",
+        "paragraph": "Following the high academic standards of the National Polytechnic Institute (IPN), our objective is to provide training in high specialty areas for the manufacturing sector.",
+        "text": "Key course areas:",
+        "texta": "Automotive - Aeronautics",
+        "textb": "Medical devices",
+        "textc": "Electronics – Logistics"
+    },
+
+    "sianiHome":{
+        "tittle1":"What is SIANI?",
+        "text1":"The Integral System for Attention to Needs with the Industry (Acronym in spanish SIANI) is a 100% IPN software development based on web architecture. This system will allow to quickly identify the needs of the industry in Juárez region. Providing customers with confidence that their information Will be safely and confidentially.",
+        "tittle2":"Communication with technologists wherever you are",
+        "text2":"Connect with specialists from the CIITA team, fill out a brief survey and we will analyze each case in a personalized way to offer you technological solutions that increase the value of your company."
+    },
+
+    "umaHome":{
+        "tittle":"Mobile Learning Unit",
+        "uma":"MLU",
+        "text1":"The Mobile Learning Units (MLU) project is a model of educational attention that, through programs structured in capsules or short courses designed for the non-school modality and installed on computers inside small trucks.",
+        "button":"Know more",
+        "text2":"Allows access to informative content that is useful to improve various aspects in the lives of citizens, and also facilitates the approach to Information and Communication Technologies (ICTs)."
+    },
+
+
+    "services":{
+        "tittle0":"Services",
+        "tittle1":"Technical Proposals",
+        "text1":"Technical proposals that describe solutions to the needs or requirements of the industry, under a project development methodology.",
+        "tittle2":"Technology Development",
+        "text2":"CIITA carries out technological development activities and innovation projects, as well as technology transfer between the IPN and the productive environment.",
+        "tittle3":"Virtual Business Mission",
+        "text3":"The objective is to attract, generate and detonate business opportunities based on the strengths of the industrial SMEs of Chihuahua and Ciudad Juárez.",
+        "tittle4":"Webinars",
+        "text4":"Specialists in different areas of national and international knowledge, allied to CIITA, present current topics of interest to the industry and educational institutions of the region and the country.",
+        "tittle5":"Strategic Alliances",
+        "text5":"We are a strategic instance of the IPN that works as a link to bring its capacities closer to the productive sector, goods, services, institutions and government to promote innovation and technological development.",
+        "tittle6":"Lab tests",
+        "text6":"We have the capacity to perform 148 different laboratory tests for the industry, through the network of certified laboratories of the National Polytechnic Institute."
+    },
+
+    "contact": {
+        "title": "Contact Us",
+
+        "boxtitle": "Email",
+        "text": "If you want more information about our technology services, leave us your comments or send us an email to:",
+        "dirtitle": "Addresses",
+        "dirone": "Av. Vicente Guerrero #8840, Col. Las Quintas, Ciudad Juárez Chihuahua.",
+        "dirtwo": "Av. Instituto Politécnico Nacional #2714, Col. Quintas del Sol, Chihuahua, Chihuahua.",
+
+        "titlemap": "Ciudad Juárez, Chihuahua",
+        "titlemaptwo": "Chihuahua, Chihuahua"
+    },
+
+    "form": {
+        "name": "Name",
+        "subject": "Subject",
+        "email": "E-mail",
+        "content": "Message",
+        "btn": "Send"
+    },
+
+    "social": {
+        "title": "Social Networks",
+        "text": "Follow our social networks for relevant technology news and special activities"
+    }
+    
+}

@@ -1,0 +1,24 @@
+{
+    "proy": {
+        "title": "Projects in partnership"
+    },
+    "colab": {
+        "title": "Collaboration Agreements",
+        "text": "The CIITA offers the academic service of the region's capabilities to contribute to solving problems and strengthening productivity, competitiveness, and innovation of the private sector and government agencies in a collaborative environment."
+    },
+    "link" : {
+        "title": "Collaboration Projects such as:",
+        "advisory": "Specialized consulting.",
+        "innovation": "Innovation and development.",
+        "training": "Training and updating of human resources."
+    },
+    "block": {
+        "title": "Technical-Economic proposal",
+        "text": "A technical-economic proposal is prepared based on the client's requirements, that include the following areas:",
+        "lista": "Definition and analysis.",
+        "listb": "Solution specifications.",
+        "listc": "Deliverables.",
+        "listd": "Work schedule.",
+        "liste": "Economic proposal."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "train": {
+        "title": "Strategic Training",
+        "text": "The Corporate training programs develops the knowledge and skills that teams need to keep up with speed as industries continuously change"
+    },
+    "ti": {
+        "title": "IT and programming",
+        "text": "Take steady steps in the world of programming by learning its fundamental structures and functional logic behind each line of code.",
+        "cad": "Autodesk AutoCAD",
+        "excela": "Microsoft Excel Basic",
+        "excelb": "Microsoft Excel Intermediate",
+        "excelc": "Microsoft Excel Advanced",
+        "moodlea": "Moodle Basic",
+        "moodleb": "Introduction to the Platform MOODLE for Teachers-Advisors",
+        "moodlec": "Moodle Intermediate",
+        "security": "Basic Computer Security",
+        "securityb": "Computer Security 4.0",
+        "arduino": "Arduino",
+        "Crime": "Computer Crime Prevention",
+        "Pythona": "Python Basic",
+        "Pythonb": "Python Intermediate",
+        "Pythonc": "Python Advanced",
+        "Javaa": "Java Basic",
+        "Javab": "Java Intermediate",
+        "Javac": "Java Advanced",
+        "social": "Social Networks for Business",
+        "big": "Big Data: Principles and Applications of Big Data Analysis",
+        "apps": "APPS for an Impact Presentation",
+        "phone": "Smart Mobile Phone Use",
+        "nav": "Navigation and Evaluation of Activities",
+        "viewa": "Labview Basic",
+        "viewb": "Labview Intermediate"
+    },
+    "finance": {
+        "title": "Finance and Administration",
+        "text": "Financial administration is concerned with planning, controlling and properly executing the economic items that are necessary in all the functions and operations that are carried out by companies and institutions, in order to maintain favorable economic results which are difficult to achieve when there are no trained personnel in this area.",
+        "finan": "Finance for Non-Financial",
+        "dire": "Management skills development",
+        "conta": "Accounting for non-accountants",
+        "leadership": "Management and Business Leadership",
+        "orga": "Organizational development",
+        "proy": "Project management"
+    },
+    "soft": {
+        "title": "Soft Skills",
+        "text": "Today's technically skilled professionals face the challenge of being prepared for every changing work environment. The continuous appearance of new areas of professional development, emerging professions and the great speed at which the markets move due to globalization and labor diversity, have triggered companies to demand  certain characteristics or skills in the professionals .",
+        "stres": "Emotional Intelligence and Stress Management Techniques",
+        "culture": "Organizational culture",
+        "motiv": "Labor Motivation",
+        "change": "Adaptation to change",
+        "crisis": "Crisis management",
+        "bussines": "Negotiations in a Multicultural Environment for Executives",
+        "team": "Teamwork" 
+    },
+    "process": {
+        "title": "Manufacturing and Processes",
+        "text": "To Develop the necessary knowledge in the participant, in order to describe the theoretical fundamentals that are going to be carried out in the manufacturing processes",
+        "msa": "MSA measurement system analysis",
+        "pcp": "Control Plan PCP",
+        "geo": "Geometric Dimensions and Tolerances",
+        "quality": "Quality and Improvement Tools",
+        "apqp": "Core Tools APQP",
+        "process": "Core Tools APQP",
+        "manu": "Lean Manufacturing",
+        "metro": "Metrology and Technical Drawing",
+        "amef": "Analysis of the Mode and Effect of FMEA Failure",
+        "ppap": "Core Tools PPAP",
+        "vsm": "Mapping the VSM Value Chain",
+        "plan": "Strategic Planning",
+        "admin": "Inventory Management and Control"
+    },
+    "inscription": {
+        "title": "Registration process",
+        "subtitle": "Information to consider for your registration",
+        "texta": "To obtain a pre-registration for the course of your interest, you will have to do it by email or in our facilities, at least two weeks prior to the established start date, in order to comply with the established timeframe until the completion of this process.",
+        "textb": "Exact amounts are required on registration payments, no partial payments will be accepted. This means that you should not present two payment vouchers with different dates.",
+        "textc": "Checks and cash payments are not accepted",
+        "textd": "Polytechnic graduates will pay the 'community Price' if they present their GRADUATE ID card (in original and copy), issued by DESS department (Graduate and Social Service Directorate. Consult the procedure on the page www.egresados.ipn.mx.)",
+        "texte": "IPN students will be able to apply the 'community discount', presenting their valid student ID card with the required reseal.",
+        "textf": "Once you make your payment you must go to CIITA´s facilities, and notify this to the 'Department of Educational Services' staff in order to follow-up the registration process.",
+        "textg": "The courses are subject to a limited number of participants. CIITA´s reserves the right to reschedule those services that do not meet the minimum quora.",
+        "texth": "Billing will be done during payment process by presenting the original receipt at the cash desk from Monday to Friday within the established timeframe.",
+        "texti": "You must present your registration receipt and a valid ID to allow vehicular and pedestrian access to CIITA´s facilities."
+    },
+    "notes": {
+        "title": "Important notes",
+        "texta": "Due to the security access policies at our facilities, it is important that you present a copy of your current payment receipt",
+        "textb": "Our business hours are from 8:30 a.m. to 4:00 p.m., Monday to Friday",
+        "textc": "All courses are subject to limited space. Therefore, this department reserves the right to cancel a course considering the demand of users with at least a day of anticipation",
+        "textd": "The interested party must respect its registration payment dates and the procedure indicated by email",
+        "texte": "No refunds will be made if the course has already started. Any refund request must be made within the same month in which the course registration payment was made",
+        "textf": "No payments are received at our facilities",
+        "textg": "Places are not reserved by phone call. It is important to complete the registration process",
+        "texth": "If you are unable to attend your registration process, you can do by any other trusted person."
+    },
+    "const": {
+        "title": "Certificates",
+        "texta": "To get your certification course, you must meet 80% attendance and a minimum grade of 8.00. The certificate Will be delivered on the last day of attendance to the course."
+    }
+}

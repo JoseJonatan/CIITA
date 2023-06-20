@@ -1,0 +1,33 @@
+{
+    "banner": {
+        "tittle": "Virtual Business",
+        "tittle2": "Mission",
+        "subtittle": "Chihuahua",
+        "subtittle2":"Global Region"
+    },
+
+    "numbers":{
+        "empresas": "Companies",
+        "empleados": "Employees",
+        "sectores": "Sectors"
+    },
+
+    "objetives":{
+        "generalTittle":"General Objective",
+        "generalText": "Attract, generate and detonate business opportunities based on the strengths of the industrial SMEs of Chihuahua and Ciudad Juárez in collaboration with the infrastructure provided by the CIITA-Chihuahua (Center for Innovation and Integration of Advanced Technologies).",
+        "specificTittle": "Specific Objectives",
+        "specific1": "Show the regional potentialities that emerge from the combination of the strategic capacities of SMEs located in both cities.",
+        "specific2": "Advance in linking horizontal and vertical value chains that add economic attractiveness to the region.",
+        "specific3": "Explore the possibilities of taking advantage of the available infrastructure to compete efficiently in global chains."
+    },
+
+    "sirgic":{
+        "tittle": "Companies in synergy with CIITA",
+        "text": "The importance of these collaborations to generate synergy and form a common space where challenges, good practices and success stories can be shared among associated companies, for the development of the local industry through their participation in global value chains."
+    },
+
+    "nextMission":{
+        "tittle": "Next business mission",
+        "text": "June 17, 2021, 16:00 hrs"
+    }
+}

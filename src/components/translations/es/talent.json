@@ -1,0 +1,30 @@
+{
+    "tale": {
+        "title": "Desarrollo de Talento",
+        "text": "El talento es el detonador del desarrollo regional que transita la manufactura a la mentefactura. La oferta del CIITA radica en la demanda de los sectores industriales de la región, la industria de manufactura de exportación y PYMES industriales regionales."
+    },
+    "training": {
+        "title": "Capacítate",
+        "text": "Siguiendo las normas de calidad académica del IPN, tenemos como uno de nuestros objetivos primordiales formar especialistas de calidad que demanden los mercados empresariales en Chihuahua sujetos a constantes cambios y saltos tecnológicos, en un entorno de innovación.",
+        "key": "Cursos clave para los sectores:",
+        "lista": "Automotriz",
+        "listb": "Aeronáutica",
+        "listc": "Dispositivos Médicos",
+        "listd": "Electrónica",
+        "liste": "Logística",
+        "btn": "Aprende más"
+    },
+    "human": {
+        "title": "Recursos Humanos",
+        "text": "No se puede hablar de un sólo modelo de capacitación estratégica que sea aplicable y exitoso para todas las empresas, es necesario elaborar un modelo en particular para satistacer la necesidades de cada empresa.",
+        "lista": "La capacitación mejora la producción y eleva estándares de calidad."
+    },
+    "strategic": {
+        "title": "Capacitación Estratégica",
+        "text": "Evaluamos cuáles son las oportunidades para la capacitación, los temas, recursos específicos y selección de alternativas estratégicas para lograr los objetivos del proyecto.",
+        "fact": "La planeación estratégica del CIITA comprende 3 factores clave:",
+        "lista": "Generación de escenarios",
+        "listb": "Alternativas estratégicas",
+        "listc": "Auditoría interna de recursos"
+    }
+}

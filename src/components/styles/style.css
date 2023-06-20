@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container-for-navbar{
+    padding: 0 2rem 0 2rem;
+}
+
+.particles{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -2;
+    background-color: #203951;
+}
+
+.slid.card-panel, .card-col, .card-on-home.card-reveal, .card-on-home{
+    background-color: #4D657D;
+}
+
+.card, .card-panel,.card-img{
+    border-radius: 1rem;
+}
+
+@media (min-width: 1080px) {
+    .banner-and-cap{
+        padding-right: 4rem;
+        padding-left: 4rem;
+    }
+}
+
+.card-content.card-col{
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.card .card-image img{
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.img-banner-home{
+    filter: brightness(45%);
+}
+
+@media (max-width: 1016px) { 
+    .img-banner-mision{
+        filter: brightness(45%);
+    }
+ }
+
+
+
+label{
+    color: #6B6D6B;
+}
+
+.input-field.col .prefix ~ label, .input-field.col .prefix ~ .validate ~ label {
+    color: black;
+}
+
+.blue-grey-text.text-lighten-4 {
+    color: #cfd8dc !important;
+    background-color: #4D657D;
+}
+
+.card-image1{
+   margin-inline: 6rem;
+   padding-top: 4rem;
+   padding-bottom: 2rem;
+}
+
+video{
+    border-radius: 1rem;
+}
+
+.card-UMA{
+    background-color: #7D7DFD;
+}
+
+.card-content-UMA{
+    background-color: #A4A4FE;
+}
+
+.time {
+    font-size: 32px;
+    text-align: center;
+}
+
+.cont>div{
+margin: auto;
+}

@@ -1,0 +1,18 @@
+{
+    "navbar": {
+        "main": "Home",
+        "meet": "About Us",
+        "business": "Business Development",
+        "local": "Regional Development",
+        "projects": "Collaboration Agreements",
+        "transfer": "Technology Transfer",
+        "talent": "Talent Development",
+        "lab": "Laboratory",
+        "sos": "Social Integration",
+        "bri": "Social Service Brigades",
+        "sus": "CIITA Sustainability",
+        "uma": "Mobile Learning Unit",
+        "mis": "Virtual Mission",
+        "gob": "Governance Committe"
+    }
+}

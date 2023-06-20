@@ -1,0 +1,17 @@
+{
+    "siani": {
+        "title": "SIANI"
+    },
+    "what": {
+        "title": "¿Qué es SIANI?",
+        "texta": "El Sistema Integral para la Atención a Necesidades con la Industria (SIANI) es un desarrollo de software 100% institucional, basado en arquitectura web. Este sistema permitirá identificar de forma rápida las necesidades de la industria en la región. Brindando la confianza a los clientes que su información se encuentra alojada de forma segura y confidencial en los servidores de la institución, y que sus datos no serán utilizados con fines comerciales en las plataformas comunes de servicios digitales."
+    },
+    "for": {
+        "title": "¿Para que se usa SIANI?",
+        "texta": "Con la finalidad de incorporar la tecnología actual para optimizar la comunicación, además de reducir tiempos y costos, SIANI es un instrumento digital que permitirá a los clientes tener contacto con los representantes del CIITA Juárez para expresar sus necesidades y que nuestros especialistas puedan realizar un acertado diagnóstico empresarial que defina con mayor precisión las soluciones que mejoren la productividad y calidad en los productos y servicios de nuestros clientes."
+    },
+    "how": {
+        "title": "¿Cómo funciona SIANI?",
+        "texta": "Mediante la creación de una cuenta personal, los clientes tendrán acceso al sistema SIANI donde podrán visualizar las solicitudes que se realicen. Además, se cuenta con encuestas estratégicamente diseñadas para realizar diagnósticos empresariales basados en las mejores prácticas. Una vez que el cliente guarda su información, nuestro equipo de profesionales del CIITA Juárez, analizarán la información para ofrecer al cliente el/los proyectos que mejor se adecuen a su situación, y que desde la misma plataforma el cliente pueda visualizar los diagnósticos correspondientes. Es muy importante mencionar que este análisis es personalizado por cada empresa y la información no se procesa mediante sistemas automatizados. Esto proporcionará al cliente una experiencia de comunicación cómoda y profesional, tratando de optimizar los recursos de tiempo y presupuesto para la realización de reuniones presenciales. Además, coadyuvando en todo momento las estrategias actuales del gobierno federal para la prevención de contagios por COVID-19."
+    }
+}

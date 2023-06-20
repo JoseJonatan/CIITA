@@ -1,0 +1,19 @@
+{
+    "navbar": {
+        "main": "Inicio",
+        "meet": "Conocenos",
+        "business": "Desarrollo Empresarial",
+        "local": "Desarrollo Regional",
+        "projects": "Proyectos Vinculados",
+        "transfer": "Transferencia de Tecnología",
+        "talent": "Desarrollo de Talento",
+        "lab": "Laboratorios",
+        "sos": "Integración Social",
+        "bri": "Brigadas de Servicio Social",
+        "sus": "Sustentabilidad CIITA",
+        "uma": "Unidad Móvil de Aprendizaje",
+        "mis": "Misión Virtual",
+        "gob": "Consejo de Gobierno"
+    }
+    
+}

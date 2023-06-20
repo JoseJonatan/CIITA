@@ -1,0 +1,31 @@
+{
+    "regional": {
+        "title": "Desarrollo Regional",
+        "subtitle": "Beneficios e Impacto Regional"
+    },
+    "model": {
+        "title": "Modelo Institucional de Desarrollo Regional",
+        "text": "Es un modelo colaborativo, para apoyar al sector productivo en la identificación de mejoras con innovaciones de alto impacto en el mercado, que sean susceptibles de adopción para generar mayores utilidades y un mejor posicionamiento en el mercado que detone el desarrollo regional y nacional."
+    },
+    "days" : {
+        "title": "Inversión Requerida",
+        "subtitle": "14 horas distribuidas en 4 días de reuniones ejecutivas",
+        "contact": "Día 0 – Contacto Inicial",
+        "map": "Día 1 – Mapa de Empatía",
+        "design": "Día 2 – Design Thinking",
+        "result": "Día 3 – Presentación de Resultados",
+        "text": "Reuniones con el CEO o Gerente General y gerentes por día en cada una de las etapas de producción."
+    },
+    "block": {
+        "market": "Posicionamiento en el Mercado",
+        "textm": "Identificación de oportunidades para mejorar o desarrollar nuevos productos y servicios.",
+        "process": "Mejoramiento de Procesos",
+        "textp": "Identificación de mejores prácticas en los procesos.",
+        "resources": "Optimización de Recursos",
+        "textr": "Información estratégica para soporte en la toma de decisiones del ámbito de la innovación y el desarrollo disruptivo.",
+        "utility": "Incremento de Utilidades",
+        "textu": "Identificar nuevas opciones de mercadeo.Oportunidades para generar valor agregado para el cliente.",
+        "tech": "Aliado Tecnológico",
+        "textt": "Contar con un socio tecnológico para la transferencia de conocimiento y tecnología."
+    }
+}

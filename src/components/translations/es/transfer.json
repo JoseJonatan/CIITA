@@ -1,0 +1,24 @@
+{
+    "trans": {
+        "title": "Transferencia de Tecnología",
+        "text": "Somos el vínculo entre la comunidad politécnica y el sector industrial, privado, público y social con el propósito de comercializar el conocimiento generado de la investigación a través de licencias u otros esquemas comerciales."
+    },
+    "protection": {
+        "title": "Protección de la Propiedad Intelectual",
+        "text": "Proceso para generar los modelos de protección legal en los desarrollos tecnológicos del Instituto con potencial comercial.",
+        "lista": "Búsqueda del estado del arte de la propiedad intelectual.",
+        "listb": "Análisis de patentabilidad."
+    },
+    "commerce": {
+        "title": "Comercio de Tecnología",
+        "text": "Los recursos y medios empleados para vender, transferir, licenciar o intercambiar sus tecnologías, sus activos de propiedad intelectual y sus paquetes tecnológicos.",
+        "lista": "Portafolio de tecnologías con propiedad intelectual.",
+        "listb": "Oportunidades de negocio."
+    },
+    "management": {
+        "title": "Gestión de actividades I + D",
+        "text": "Proceso para la identificación de practicas o precedimientos para la comercialización tecnológica.",
+        "lista": "Vigilancia tecnológica.",
+        "listb": "Valoración de intangibles."
+    }
+}
